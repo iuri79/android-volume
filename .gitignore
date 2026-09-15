@@ -1,0 +1,39 @@
+# Gradle
+.gradle/
+**/build/
+
+# Kotlin
+.kotlin/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Local Android configuration
+local.properties
+
+# Captures / generated IDE data
+captures/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+
+# Android
+*.keystore
+*.jks
+build/
+local.properties
+*.apk
+*.aab
