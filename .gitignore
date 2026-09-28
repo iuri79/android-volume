@@ -37,3 +37,4 @@ build/
 local.properties
 *.apk
 *.aab
+.git-old/
